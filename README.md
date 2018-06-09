@@ -1,2 +1,3 @@
 # codechef
-Solutions to problems in CodeChef
+
+Solutions to problems on the [CodeChef](https://www.codechef.com) website.
