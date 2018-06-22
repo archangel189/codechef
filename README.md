@@ -16,6 +16,11 @@ Solutions to competitive programming problems on the [CodeChef](https://www.code
 * [Naive Chef](https://www.codechef.com/JUNE18B/problems/NAICHEF)
 * [Sheokand and String](https://www.codechef.com/JUNE18B/problems/SHKSTR) (Partial)
 
+### November Challenge 2012
+
+* [Coin Flip](https://www.codechef.com/NOV12/problems/CONFLIP/)
+* [Sridhar Likes Travelling](https://www.codechef.com/NOV12/problems/TOURMAP)
+
 ### October Challenge 2012
 
 * [Event Organizer](https://www.codechef.com/OCT12/problems/MAXCOMP/)
