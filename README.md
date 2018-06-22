@@ -16,6 +16,12 @@ Solutions to competitive programming problems on the [CodeChef](https://www.code
 * [Naive Chef](https://www.codechef.com/JUNE18B/problems/NAICHEF)
 * [Sheokand and String](https://www.codechef.com/JUNE18B/problems/SHKSTR) (Partial)
 
+### December Challenge 2012
+
+* [Granama Recipes](https://www.codechef.com/DEC12/problems/GRANAMA/)
+* [Magic Rankings](https://www.codechef.com/DEC12/problems/MGCRNK/)
+* [Pizza Delivery](https://www.codechef.com/DEC12/problems/DBOY/)
+
 ### November Challenge 2012
 
 * [Coin Flip](https://www.codechef.com/NOV12/problems/CONFLIP/)
