@@ -16,6 +16,10 @@ Solutions to competitive programming problems on the [CodeChef](https://www.code
 * [Naive Chef](https://www.codechef.com/JUNE18B/problems/NAICHEF)
 * [Sheokand and String](https://www.codechef.com/JUNE18B/problems/SHKSTR) (Partial)
 
+### September Challenge 2012
+
+* [Racing Horses](https://www.codechef.com/SEP12/problems/HORSES/)
+
 ### August Challenge 2012
 
 * [Little Elephant and Bombs](https://www.codechef.com/AUG12/problems/LEBOMBS/)
